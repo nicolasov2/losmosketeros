@@ -1,3 +1,7 @@
 mati estuvo aqui
 
+<<<<<<< HEAD
 mati walala ola
+=======
+el mati arreglo la linea del pipe
+>>>>>>> e3cb31a147a97b68817ef6987d0c0d374e58a819
